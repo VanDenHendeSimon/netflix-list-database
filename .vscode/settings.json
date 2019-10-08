@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Simon\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.autopep8Args": [
+        "--ignore=W293",
+    ]
+}
