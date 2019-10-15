@@ -427,5 +427,5 @@ class NetflixBot(QtWidgets.QWidget):
 
 
 # Replace these by your actual email, password and username
-simon = NetflixBot('mysecretemail@gmail.com', 'mysecretpassword', 'Simon')
+simon = NetflixBot('secretemail@gmail.com', 'secretpassword', 'Simon')
 simon.run()
